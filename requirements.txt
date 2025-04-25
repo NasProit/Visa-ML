@@ -24,3 +24,4 @@ jinja2
 python-multipart
 -e .
 pandas
+numpy
